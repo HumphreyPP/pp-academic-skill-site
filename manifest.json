@@ -1,0 +1,111 @@
+{
+  "generated_at": "2026-05-19T14:20:44",
+  "public_package_note": "Public ZIPs exclude PDFs and Python bytecode/cache files.",
+  "skills_count": 14,
+  "bundle": {
+    "zip": "packages/humph-codex-skills-bundle.zip",
+    "bytes": 187046
+  },
+  "skills": [
+    {
+      "name": "academic-phrasebank-zh",
+      "zip": "packages/academic-phrasebank-zh.zip",
+      "bytes": 5267,
+      "files": 4,
+      "excluded_public_files": [
+        "references\\academic-phrasebank.pdf"
+      ]
+    },
+    {
+      "name": "discussion-check-zh",
+      "zip": "packages/discussion-check-zh.zip",
+      "bytes": 17705,
+      "files": 2,
+      "excluded_public_files": []
+    },
+    {
+      "name": "discussion-deconstruct-zh",
+      "zip": "packages/discussion-deconstruct-zh.zip",
+      "bytes": 28437,
+      "files": 13,
+      "excluded_public_files": []
+    },
+    {
+      "name": "discussion-learning-pipeline",
+      "zip": "packages/discussion-learning-pipeline.zip",
+      "bytes": 6431,
+      "files": 4,
+      "excluded_public_files": []
+    },
+    {
+      "name": "doc",
+      "zip": "packages/doc.zip",
+      "bytes": 11370,
+      "files": 6,
+      "excluded_public_files": []
+    },
+    {
+      "name": "guosheke-proposal",
+      "zip": "packages/guosheke-proposal.zip",
+      "bytes": 7382,
+      "files": 2,
+      "excluded_public_files": []
+    },
+    {
+      "name": "hatch-pet",
+      "zip": "packages/hatch-pet.zip",
+      "bytes": 45734,
+      "files": 14,
+      "excluded_public_files": []
+    },
+    {
+      "name": "humanizer-zh",
+      "zip": "packages/humanizer-zh.zip",
+      "bytes": 13919,
+      "files": 5,
+      "excluded_public_files": []
+    },
+    {
+      "name": "introduction-check-zh",
+      "zip": "packages/introduction-check-zh.zip",
+      "bytes": 15551,
+      "files": 6,
+      "excluded_public_files": []
+    },
+    {
+      "name": "literature-review-writing",
+      "zip": "packages/literature-review-writing.zip",
+      "bytes": 3786,
+      "files": 3,
+      "excluded_public_files": []
+    },
+    {
+      "name": "pdf",
+      "zip": "packages/pdf.zip",
+      "bytes": 7111,
+      "files": 4,
+      "excluded_public_files": []
+    },
+    {
+      "name": "sentencebank",
+      "zip": "packages/sentencebank.zip",
+      "bytes": 13166,
+      "files": 7,
+      "excluded_public_files": []
+    },
+    {
+      "name": "summarize",
+      "zip": "packages/summarize.zip",
+      "bytes": 1225,
+      "files": 2,
+      "excluded_public_files": []
+    },
+    {
+      "name": "writing-logic-check-zh",
+      "zip": "packages/writing-logic-check-zh.zip",
+      "bytes": 10248,
+      "files": 5,
+      "excluded_public_files": []
+    }
+  ]
+}
